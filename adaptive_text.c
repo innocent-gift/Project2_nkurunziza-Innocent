@@ -89,7 +89,7 @@ int main() {
         vowel_density
     };
 
-    printf("\n--- Executing Analysis Engine ---\n");
+    printf("\n Executing Analysis Engine \n");
     for(int i = 0; i < 4; i++) {
         analyses[i](stats_array, unique_count);
     }
