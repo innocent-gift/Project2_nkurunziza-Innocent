@@ -4,7 +4,7 @@ This repository contains a collection of three high-performance C console applic
 
 ---
 
-## 📂 Project Modules Overview
+##  Project Modules Overview
 
 1. **Project 1: Dynamic Student Record Engine** (Data Processing & Custom Analytics)
 2. **Project 2: Adaptive Text Intelligence Tool** (String Tokenization & Memory Mapping)
@@ -12,7 +12,7 @@ This repository contains a collection of three high-performance C console applic
 
 ---
 
-## 📊 Project 1: Dynamic Student Record Engine
+##  Project 1: Dynamic Student Record Engine
 
 A runtime management system that dynamically tracks, scales, and evaluates academic profiles using dynamic arrays and mathematical dispersion logic.
 
