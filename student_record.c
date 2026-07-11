@@ -31,11 +31,11 @@ int main() {
 
     // Seed initial dataset (10 students) as required
     Student initial_data[10] = {
-        {101, "Alice Smith", 88.5}, {102, "Bob Jones", 92.0},
-        {103, "Charlie Brown", 71.5}, {104, "Diana Prince", 95.5},
-        {105, "Evan Wright", 64.0}, {106, "Fiona Gallagher", 83.0},
-        {107, "George Brooks", 77.5}, {108, "Hannah Abbott", 91.0},
-        {109, "Ian Malcolm", 55.0}, {110, "Julia Roberts", 89.0}
+        {101, "Alice igihozo", 88.5}, {102, "Byishimo Jones", 92.0},
+        {103, "Irenee", 71.5}, {104, "Diana iriza", 95.5},
+        {105, "kamari jacques", 64.0}, {106, "Fiona Umurerwa", 83.0},
+        {107, "Gabriel manzi", 77.5}, {108, "Rukundo john", 91.0},
+        {109, "Ian Malcolm", 55.0}, {110, "Ndayisaba julius", 89.0}
     };
     
     Student *ptr = student_array;
