@@ -19,7 +19,7 @@ int main() {
     char *text = (char *)malloc(1024 * sizeof(char));
     if (!text) return 1;
 
-    // Standard sample text analysis paragraph
+    //  text analysis paragraph
     strcpy(text, "Equipped with his five senses, man explores the universe around him and calls the adventure Science.");
     
     printf("Source Text Address: %p\n", (void*)text);
